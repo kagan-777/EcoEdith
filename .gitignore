@@ -1,0 +1,15 @@
+users.json
+user_data/
+history.json
+stats.json
+data/
+.env
+.streamlit/secrets.toml
+.venv/
+venv/
+assets/.venv/
+chroma_db/
+uploads/
+__pycache__/
+*.pyc
+.vscode/
